@@ -1,6 +1,5 @@
 .quadro {
     text-align: center ;
-   
     height: 450px;
     width: 300px;
     border: 2px solid black;
@@ -17,12 +16,9 @@
     position: relative;
     right: 130px;
     color: red;
-
-
 }
 
 .quadro-menor { 
-
     height: 330px;
     width: 200px;
     margin: auto;
@@ -30,14 +26,13 @@
     background-color: wheat;
     position: relative;
     bottom: 45px;
-
 }
+
 .simbolo {
     position: relative;
     bottom: 75px;
     font-size: 190px;
-    color: red;
-    
+    color: red; 
 }
 
 .letra-inversa {
@@ -49,6 +44,5 @@
     position: relative;
     bottom: 90px;
     right: 10px;
-    color: red;
-    
+    color: red; 
 }
